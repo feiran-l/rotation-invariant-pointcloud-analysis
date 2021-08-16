@@ -6,6 +6,13 @@
 ##### Authors: [Feiran Li](https://sites.google.com/view/feiranlihomepage/home), [Kent Fujiwara](https://kfworks.com/), [Fumio Okura](http://cvl.ist.osaka-u.ac.jp/user/okura/), and [Yasuyuki Matsushita](http://cvl.ist.osaka-u.ac.jp/en/member/matsushita/)
 
 
+### TODO: provide a script to generate all the 24 poses from a given point cloud.
+
+
+
+![Teaser](teaser.png)
+
+
 
 ### 1. Requirement
 The provided codes have been tested on Pytorch-1.6.0 with Tesla-V100.
