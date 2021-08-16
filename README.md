@@ -13,7 +13,7 @@ The provided codes have been tested on Pytorch-1.6.0 with Tesla-V100.
 
 ### 1. Run the code
 1. Download the PCA-processed datasets ([ModelNet40](https://drive.google.com/file/d/1RVG83T3g8bXbG_mYK_UiCJkJTbdehhkf/view?usp=sharing), [ShapeNet-PartSeg](https://drive.google.com/file/d/1jUFIMoqPp1UuO8Eb1T1khGdMoxfdBm-H/view?usp=sharing), and [ScanObjectNN](https://drive.google.com/file/d/1278dJdE5-gaRxjtMWDIF7i-bF2_E1sPh/view?usp=sharing)) and unzip them to the `dataset` folder. 
-2. Note that the `ScanObjectNN` dataset is originally provided [here](mt3.research.microsoft.com/ICCV2021/Submission/Index). Please pay attention to citation.
+2. Note that the `ScanObjectNN` dataset is originally provided [here](https://hkust-vgd.github.io/scanobjectnn/). Please pay attention to citation.
 3. Run respective `*_test.ipynb` to test the pretrained model and `*_train.ipynb` to train from scratch.
 
 
