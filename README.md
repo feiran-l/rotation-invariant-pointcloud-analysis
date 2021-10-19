@@ -1,7 +1,7 @@
 # Rotation-invariant-deep-pointcloud-analysis
 
 
-#### Code for the ICCV 2021 paper: [A-closer-look-at-rotation-invariant-deep-pointcloud-analysis](https://drive.google.com/file/d/1kLYvQEF7pBpl6goOxDjkLUUpieWvZy53/view?usp=sharing). The supplementary material is [here](https://drive.google.com/file/d/1P5C4lwtncFiBBaleHqUMEKYAaypUaX2a/view?usp=sharing).
+#### Code for the ICCV 2021 paper: [A-closer-look-at-rotation-invariant-deep-pointcloud-analysis](https://openaccess.thecvf.com/content/ICCV2021/html/Li_A_Closer_Look_at_Rotation-Invariant_Deep_Point_Cloud_Analysis_ICCV_2021_paper.html).
 
 ##### Authors: [Feiran Li](https://sites.google.com/view/feiranlihomepage/home), [Kent Fujiwara](https://kfworks.com/), [Fumio Okura](http://cvl.ist.osaka-u.ac.jp/user/okura/), and [Yasuyuki Matsushita](http://cvl.ist.osaka-u.ac.jp/en/member/matsushita/)
 
