@@ -12,12 +12,12 @@
 
 
 
-### 1. Requirement
-The provided codes have been tested with Pytorch-1.6.0 on a Tesla-V100.
+### 1. Environment
+The provide codes have been tested with Pytorch-1.6.0 on a Tesla-V100.
 
 
 ### 1. Run the code
-1. Download the PCA-processed datasets ([ModelNet40](https://drive.google.com/file/d/1RVG83T3g8bXbG_mYK_UiCJkJTbdehhkf/view?usp=sharing), [ShapeNet-PartSeg](https://drive.google.com/file/d/1jUFIMoqPp1UuO8Eb1T1khGdMoxfdBm-H/view?usp=sharing), and [ScanObjectNN](https://drive.google.com/file/d/1278dJdE5-gaRxjtMWDIF7i-bF2_E1sPh/view?usp=sharing)) and unzip them to the `dataset` folder. 
+1. Download the PCA-processed datasets ([ModelNet40](https://drive.google.com/file/d/1-DrgEU8vO17SXpU-Aio0S4Ap-rAEdiAU/view?usp=share_link), [ShapeNet-PartSeg](https://drive.google.com/file/d/1-6PkQsGy1_ao0FJ2JT0g3kcW6PPotK5U/view?usp=share_link), and [ScanObjectNN](https://drive.google.com/file/d/1-GN-GIja4c8KaSrLiV19q8vnzoAGHH4m/view?usp=share_link)) and unzip them to the `dataset` folder. 
 2. Note that the `ScanObjectNN` dataset is originally provided [here](https://hkust-vgd.github.io/scanobjectnn/). Please pay attention to citation.
 3. Run respective `*_test.ipynb` to test the pretrained model and `*_train.ipynb` to train from scratch.
 4. If you want to generate the 24 ambiguities of your own dataset, please see the `generate_24_pca_poses.py` script.
